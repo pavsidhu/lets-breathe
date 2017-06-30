@@ -1,0 +1,16 @@
+{
+  "name": "breathe",
+  "version": "1.0.0",
+  "description": "A deep breathing Alexa skill",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.10",
+    "aws-sdk": "^2.4.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavSidhu/breathe.git"
+  },
+  "author": "Pav Sidhu",
+  "license": "MIT"
+}
