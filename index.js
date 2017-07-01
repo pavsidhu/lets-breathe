@@ -50,6 +50,10 @@ const speech = `
 const handlers = {
   StartSession: function() {
     this.emit(':tell', speech)
+  },
+
+  LaunchRequest: function() {
+    this.emit('StartSession')
   }
 }
 
