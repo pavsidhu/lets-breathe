@@ -1,6 +1,6 @@
 {
   "name": "breathe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A deep breathing Alexa skill",
   "main": "index.js",
   "dependencies": {
